@@ -1,0 +1,21 @@
+1.命令
+退出 exit
+清屏 clear 清屏
+指定语言 LANG=en
+显示日期的指令 date +%Y/%m/%d
+显示日历的指令 cal [month] [year]
+简单好用的计算器 bc
+
+展示 ls -al ~/.bash
+在线帮助 man 命令
+查看信息 info 文件
+搜索关键词  那么可以在任何时候输入『 /word 』，来主动搜寻关键词！
+
+增加执行权限 chmod
+
+
+
+
+2.
+ctrl+c:停止运行
+ctrl+d:停止输入
