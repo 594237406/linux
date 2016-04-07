@@ -19,3 +19,6 @@
 2.
 ctrl+c:停止运行
 ctrl+d:停止输入
+
+3.vim
+tabe 开启一个新的vim
