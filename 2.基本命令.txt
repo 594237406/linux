@@ -13,12 +13,17 @@
 
 增加执行权限 chmod
 
-
-
-
 2.
 ctrl+c:停止运行
 ctrl+d:停止输入
 
 3.vim
 tabe 开启一个新的vim
+
+3.
+在单词之间跳转，使用Ctrl+左右键。
+Ctrl+a跳到本行的行首，Ctrl+e则跳到页尾。
+Ctrl+u删除当前光标前面的文字
+ctrl+k-删除当前光标后面的文字
+Ctrl+w\Alt+d-对于当前的单词进行删除操作，w删除光标前面的单词的字符，
+d则删除后面的字符Alt+Backsapce-删除当前光标后面的单词，如果删除错误，使用Ctrl+y进行恢复Ctrl+L进行清屏操作
